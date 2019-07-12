@@ -6,7 +6,7 @@
 
 ## 版本说明
 
-该项目版本与fork的[自定义uid-generator](https://git.sensin-tech.cn/backup/service-common/uid-generator)版本保持一致
+该项目版本与[uid-generator](https://github.com/baidu/uid-generator)版本保持一致
 
 ## 参数说明
 
