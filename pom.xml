@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.wuhenjian.springboot.starter</groupId>
-    <artifactId>uid-generator-springboot-starter</artifactId>
+    <artifactId>uid-generator-spring-boot-starter</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>uid-generator-springboot-starter</name>
+    <name>uid-generator-spring-boot-starter</name>
     <description>百度唯一UID生成器Springboot自动化配置</description>
 
     <properties>
