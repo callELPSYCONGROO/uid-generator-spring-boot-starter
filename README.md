@@ -1,4 +1,4 @@
-# uid-generator-springboot-starter
+# uid-generator-spring-boot-starter
 
 > 百度唯一UID生成器Springboot自动化配置
 
